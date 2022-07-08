@@ -12,3 +12,7 @@ print('Changed by Ali')
 
 if True:
     print(False)
+
+while True:
+    pass
+print("KamranMoqadam")
